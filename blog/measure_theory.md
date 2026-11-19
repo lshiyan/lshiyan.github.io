@@ -1,0 +1,9 @@
+### Introduction to Measure Theory
+
+This one comes with a funny story behind it. I was originally enrolled in the Math and Physics Program at McGill for my undergraduate, but I decided to switch into Computer Science in my 4th year. This tacked on an extra few years to my degree, including an internship, so naturally coming into my Master's I hadn't done any pure math in around 3 years. However, I decided that going into the AI space necessitated a foundation in probability, a branch of math that I wasn't really too familiar with from my previous courses.
+
+For some reason, I also had a notion that probability was some sort of 'fake' math. Maybe it was because my last real exposure to pure probability was all the way back in high school, where it was still firmly in the realm of 'What's the chances that flipping 2 coins gives you 2 heads?' This misguided notion, and a healthy bit of ego on my end, made me choose to take a graduate level probability course, MATH 587, in my first semester of my Computer Science Master's, keeping in mind my hiatus from any math courses since my degree switch. This choice could only be described as an unforced error on my part; however, it has led me to learn some very interesting concepts and ways to think about the field that I would never have been exposed to otherwise. I lay some of them out here.
+
+## Sets and Sigma-Algebras
+
+The foundation behind 'real' probability is a field of pure maths called measure theory. Measures are in some sense how probabilities are defined, but we won't talk about them just yet. First we need to get the boring stuff out of the way, sets and sigma-algebras.
