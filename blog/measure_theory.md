@@ -1,3 +1,8 @@
+---
+layout: default
+title: Introduction to Measure Theory
+---
+
 ### Introduction to Measure Theory
 
 This one comes with a funny story behind it. I was originally enrolled in the Math and Physics Program at McGill for my undergraduate, but I decided to switch into Computer Science in my 4th year. This tacked on an extra few years to my degree, including an internship, so naturally coming into my Master's I hadn't done any pure math in around 3 years. However, I decided that going into the AI space necessitated a foundation in probability, a branch of math that I wasn't really too familiar with from my previous courses.
