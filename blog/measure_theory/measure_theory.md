@@ -189,11 +189,11 @@ It might also now be clear why the absolute continuity of these measures is impo
 
 ### Probability Densities
 
-As stated in the sections above, the law of a random variable $X$ is a probability measure on $\mathcal{B}(\mathbb{R})$. This means that if $\mathcal{L}_X \lt \lt \text{Leb}$, then by Radon-Nikodym, there exists a unique function $f$ such that $d\mathcal{L}_X = f  d\text{(Leb)}$. This $f$ is precisely the traditional probability density that one might be familiar with, and it exactly matches our prior idea of a density. Given a set $B = (a,b]$, which is a Borel set, and writing $dx$ meaning integration w.r.t the Lebesgue measure:
+As stated in the sections above, the law of a random variable $X$ is a probability measure on $\mathcal{B}(\mathbb{R})$. This means that if $\mathcal{L}_X \lt \lt \text{Leb}$, then by Radon-Nikodym, there exists a unique function $f_X$ such that $d\mathcal{L}_X = f_X  d\text{(Leb)}$. This $f_X$ is precisely the traditional probability density that one might be familiar with, and it exactly matches our prior idea of a density. Given a set $B = (a,b]$, which is a Borel set, and writing $dx$ meaning integration w.r.t the Lebesgue measure:
 
 $$
 
-\int_B d\mathcal{L}_x = \mathbb{P} (X \in B) = \int_B f dx = \int_a^b f(x) dx
+\int_B d\mathcal{L}_x = \mathbb{P} (X \in B) = \int_B f_X dx = \int_a^b f_X(x) dx
 
 $$
 
