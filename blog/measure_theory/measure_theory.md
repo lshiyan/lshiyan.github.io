@@ -189,7 +189,7 @@ It might also now be clear why the absolute continuity of these measures is impo
 
 ### Probability Densities
 
-As stated in the sections above, the law of a random variable $X$ is a probability measure on $\mathcal{B}(\mathbb{R})$. This means that if $\mathcal{L}_X \lt \lt \text{Leb}$, then by Radon-Nikodym, there exists a unique function $f$ such that $d\mathcal{L}_X = f  d\text{(Leb)}$. This $f$ is precisely the traditional probability density that one might be familiar with, and it exactly matches our prior idea of a density. Given a set $B = (a,b]$, which is a Borel set, and writing $dx$ meaning integration with respect to the Lebesgue measure:
+As stated in the sections above, the law of a random variable $X$ is a probability measure on $\mathcal{B}(\mathbb{R})$. This means that if $\mathcal{L}_X \lt \lt \text{Leb}$, then by Radon-Nikodym, there exists a unique function $f$ such that $d\mathcal{L}_X = f  d\text{(Leb)}$. This $f$ is precisely the traditional probability density that one might be familiar with, and it exactly matches our prior idea of a density. Given a set $B = (a,b]$, which is a Borel set, and writing $dx$ meaning integration w.r.t the Lebesgue measure:
 
 $$
 
@@ -207,6 +207,6 @@ When working with random variables in the past, one might have not ever thought 
 
 The material in this post has been only around a half of what my course teaches, and heavily truncated and simplified at that. I decided to stop around here since it covers most of the concepts that I, and many of you, may have learned in earlier-year probability or statistics courses, (probabilities, random variables, distributions, CDFS, densities), but from a measure-theoretic point of view. However, I think it goes to show one of the reasons why Maths always intrigued me. No matter how much I think I know, how 'fake' I believe probability to be, there's always a higher level abstraction that really formalizes the basic ideas that I've been taught and challenges the way that I thought about them. 
 
-I guess that's the main takeaway I wanted to give from this article; that there's always something more to learn. Ideas and concepts that you thought you understood at face value might always have something deeper lying below the surface. It might not always be necessary to delve into the deep end, but often times it is just a bit more fulfilling than wading into the shallow end.
+I guess that's the main takeaway I wanted to give from this article; that there's always something more to learn. Ideas and concepts that you thought you understood at face value might always have something deeper lying below the surface. It might not always be necessary to fully delve into the depths, but often times it is just a bit more fulfilling than wading in the shallow end.
 
-Funnily enough, as I write this post I just completely bottled my second midterm for this course, so maybe the real takeaway is to not ego-enroll in a graduate level math course with 3 years off from doing pure maths :P
+Funnily enough, as I write this post I just completely bottled my second midterm for this course, so maybe the real takeaway is to not ego-enroll in a graduate level math course after 3 years off from doing pure maths :P
